@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101206721106",
+    "project_id": "project-7eb26",
+    "storage_bucket": "project-7eb26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101206721106:android:7f448706f7837f972b158b",
+        "android_client_info": {
+          "package_name": "com.example.pewter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtnblb6RAYieDFsIWz-LrtE-XWP6bphvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
